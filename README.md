@@ -8,4 +8,4 @@ Tres reminders for *Growth Mindset*
 2. I believe I can fly!
 3. Ask questions, accept critisism
 
-Take a look at my github! https://github.com/Timothy-Adams
+[Take a look at my github!] (https://github.com/Timothy-Adams)
