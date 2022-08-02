@@ -13,7 +13,7 @@
 
 
 
-###Markdown syntax
+### Markdown syntax
 - Heading levels from large to small #-######
 - Heading size in HTML <h#>Heading level #</h#> (# can be 1-6)
 - # then space
