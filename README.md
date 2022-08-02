@@ -19,24 +19,13 @@
 - (#) then space
 - Put blank lines between texts and headings
 - Keep lines left aligned to avoid weird spacing issues
-- 
+
+
+### Basic formatting
+- `>` used to quote a block of text
+
 
 
 [Take a look at my github!](https://github.com/Timothy-Adams)
 
 
-* dragonfly
-
-*dragonfly
-
-> dragonfly
-
->dragonfly
-
-# dragonfly
-
-#dragonfly
-
-& dragonfly
-
-`dragonfly`
