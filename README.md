@@ -23,7 +23,7 @@
 
 ### Basic formatting
 - `>` used to quote a block of text
-- ``` used to separate code out into text
+- ` used to separate code out into text
 
 
 
