@@ -2,8 +2,8 @@
 
 1. Structure of a web page 
 2. Hyper Text Markup Language
-3. Elements written in brackets <h1>this is a header</h1>
-4. tags look like this <openingTag></closingTag>
+3. Elements written in brackets `<h1>this is a header</h1>`
+4. tags look like this `<openingTag></closingTag>`
 5. the stuff inside of the brackets is content
 6. HTML does have some self closing tags
 
