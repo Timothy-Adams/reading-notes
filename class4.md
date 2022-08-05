@@ -1,11 +1,11 @@
 **HTML**
 
--Structure of a web page 
--Hyper Text Markup Language
--Elements written in brackets <h1>this is a header</h1>
--tags look like this <openingTag></closingTag>
--the stuff inside of the brackets is content
--HTML does have some self closing tags
+1. Structure of a web page 
+2. Hyper Text Markup Language
+3. Elements written in brackets <h1>this is a header</h1>
+4. tags look like this <openingTag></closingTag>
+5. the stuff inside of the brackets is content
+6. HTML does have some self closing tags
 
 **Wireframe**
 
@@ -15,10 +15,10 @@ Can use pen and paper or available digital tools like InVision, google draw, or 
 
 *Steps to reference*
 
--Do research
--Prep research for reference
--Map out user flow
--Draft, don't draw. Sketch, don't illustrate.
--Add some detail and test
--Start turning wireframes into prototypes
+1. Do research
+2. Prep research for reference
+3. Map out user flow
+4. Draft, don't draw. Sketch, don't illustrate.
+5. Add some detail and test
+6. Start turning wireframes into prototypes
 
